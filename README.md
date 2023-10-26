@@ -1,6 +1,3 @@
-// Write me a read me for my Node Express Application includng into, install instrcutions and template for API endpoint docs
-
-
 ** Stackberry **
 =================
 
@@ -13,13 +10,6 @@ To install the application, you will need to have Node.js installed on your mach
 
 ```
 npm install
-```
-
-This will install all of the dependencies for the application. Once the dependencies are installed, you will need to create a .env file in the root directory of the application. This file will contain the environment variables for the application. The .env file should look like this:
-
-```
-PORT=3000
-MONGODB_URI=mongodb://localhost:27017/stackberry
 ```
 
 You can start the application by running the following command:
